@@ -6,7 +6,6 @@ require './connect.php';
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="author" content="Dimas Aldi Pratama">
 	<title>Sistem Pendukung Keputusan Pemilihan Pemasok</title>
 	<link rel="stylesheet" type="text/css" href="asset/css/style.css">
     <link rel="stylesheet" type="text/css" href="asset/plugin/font-icon/css/fontawesome-all.min.css">

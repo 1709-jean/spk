@@ -5,7 +5,7 @@
     <title>Login </title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" type="text/css" href="asset/css/login.css">
-    <link rel="shortcut icon" href="decision.png">
+    <link rel="shortcut icon" href="Mirota.png">
     <link rel="stylesheet" type="text/css" href="asset/plugin/font-icon/css/fontawesome-all.min.css">
 </head>
 <body id="login">
