@@ -292,7 +292,7 @@ ul.nav {
     color: white;
     padding: 6px 18px; }
     ul.nav li a:hover {
-      background-color: #c27c22; }
+      background-color: #ffffffba; }
 
 @media screen and (max-width: 600px) {
   nav button#hidden {

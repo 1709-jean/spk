@@ -9,8 +9,8 @@
     <link rel="stylesheet" type="text/css" href="asset/plugin/font-icon/css/fontawesome-all.min.css">
 </head>
 <body id="login">
-<img src="decision.png" id="logo-login" style="width: 100px; height 100px;">&nbsp;
-<h1>SPK Pemilihan Volunteer Unit UKDW Dengan Metode SAW</h1>
+<img src="Mirota.png" id="logo-login" style="width: 500px; height 100px;">&nbsp;
+<h1>SPK Pemilihan Pemasok Dengan Metode SAW</h1>
 
 <div id="panel-login">
     <form id="formlogin" method="POST" action="ceklogin.php">
